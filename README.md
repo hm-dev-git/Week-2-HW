@@ -43,3 +43,14 @@ oh yeah, and testing the user input
 it works! for fun I tried removing .to_i but I could not see a difference. like the puts doesn't put it in doulbe quotes. Something to think about later
 
 --
+v0.03
+--
+Markdown: there is totally a difference between -- and ---, not sure about the headers. But "v0.02" is mad bold, and there's another line divider underneath. Wonder if the same thing will happen with only 2 dashes beneath
+
+oh and I added the .to_i to .chomp because of lesson 12 in the reading:
+http://ruby.learncodethehardway.org/book/ex12.html
+didn't mention that in the last notes
+
+shit forgot to tag the last one... for notes consistency I will do so now. 
+BUT it is a good point, do I need to tag EVERY single commit?
+Doesn't seem like it, would be more meaningful if I saved it for substantial milestones
