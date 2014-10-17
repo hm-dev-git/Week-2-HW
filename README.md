@@ -107,4 +107,10 @@ The issue I ran into is I want to have a globar variable for "NAILED IT" when th
 so yeah, commit and try again
 
 --
+Sublime: highlighting a block of script and hitting CMD+[], either one, changes the tabbing.
+Oh, and I wanted to change my tabs because Brian said something about it, and the shortcuts eliminates the inconvenience of extra spaces vs the tabs. Tab width is only 2 anyways, so not that bad anyways.
+
+Alright, so I think the code I've written to this point will do the trick. Time to test and find out
+--
+
 
