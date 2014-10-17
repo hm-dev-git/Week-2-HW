@@ -3,7 +3,7 @@ Week-2-HW
 
 Number Guesser
 
-v1: Basic Problem
+[XX-v1-XX] v0: Basic Problem
 Haven't tagged anything yet, trying out rand function
 after runing it a few times, it 
 
@@ -19,3 +19,15 @@ http://ruby.about.com/od/newinruby191/ss/Generating-Random-Numbers-In-Ruby.htm
 
 according to that, rand(x..y) will include the upper limit
 three dots rand(x...y) will not
+
+--
+so at this point, I see that tagging would be helpful. So I can refer to my various commits and pushes
+
+http://git-scm.com/book/en/Git-Basics-Tagging
+
+so '''git tag''' shows the versions
+-a writes it out, the -m is a comment to go with it
+-s is signed, with a private key. Fun!
+aaaand there's more involved, like lightweight tags. but whatever
+
+git show '''version num'''
