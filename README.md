@@ -31,3 +31,15 @@ so '''git tag''' shows the versions
 aaaand there's more involved, like lightweight tags. but whatever
 
 git show '''version num'''
+
+so this is v0.01
+
+---
+v0.02
+---
+well for starters, does this make a line divider AND and header style in markdown? Or if two dashes -- is different from three ---I'll find out!
+
+oh yeah, and testing the user input
+it works! for fun I tried removing .to_i but I could not see a difference. like the puts doesn't put it in doulbe quotes. Something to think about later
+
+--
