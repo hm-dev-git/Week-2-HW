@@ -79,4 +79,14 @@ to figure out how to add the variable to number of chances to the prompt variabl
 
 Sublime: Alt+CMD+S saves all files. It's amazing, but I have to hit the modifyer keys on the right side of the keyboard to hit the S on the left. Because my fingers don't curl that way
 
+-- commit
+
+damn, just fucking realized the Markdown thing I was talking about DOES exist, and in git flavred md no less
+basically, leaveing a whole blank line leaves it as different paragraphs. 
+But as I'm writing it now, with just on return key and the text "touching" it shows it all in the same block.  
+tried it with one space after the period, then two spaces. Wonder if that does it!
+
+ 
+
+
 
