@@ -7,6 +7,21 @@ num_answer = rand(x..y)
 
 chances = 5
 
+
+def check_num(guess_num, num_answer)
+	if guess_num < num_answer
+		return "Too Low!"
+	end
+
+	if guess_num > num_answer
+		return "Too High!"
+	end
+
+	if guess_num == num_answer
+		return "NAILED IT!!"
+	end
+end
+
 chances.times do
 	
 	puts("Start 'Number Guesser'")
@@ -19,5 +34,8 @@ chances.times do
 
 	# test input: works!
 	# puts(guess_num)
+
+	check_num guess_num num_answer
+
 
 end

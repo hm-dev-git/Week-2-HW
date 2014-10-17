@@ -82,11 +82,29 @@ Sublime: Alt+CMD+S saves all files. It's amazing, but I have to hit the modifyer
 -- 
 commit. -- commit on the last line doesn't make the line break, and from now on I'll just leave the commit out. so the line break means commit
 
-damn, just fucking realized the Markdown thing I was talking about DOES exist, and in git flavred md no less
+damn, just fucking realized the Markdown thing I was talking about DOES exist, and in git flavored md no less
 basically, leaveing a whole blank line leaves it as different paragraphs. 
 But as I'm writing it now, with just on return key and the text "touching" it shows it all in the same block.  
-tried it with one space after the period, then two spaces. Wonder if that does it!
+Tried it with one space after the period, then two spaces. Wonder if that does it!  
+(A: two spaces seems to do the trick)
 
 --
 I'm getting tired, so I figure I'd scrath a notch in the version number totem pole, to commemorate the long hard fight
+
+--
+v0.04
+--
+sooo yeah, I went back and changed a line about two spaces in markdown.
+
+and in the terminal, I can't tell if aaaaall my commits in v0.03 are reflected. Dunno if '''git show''' is '''less''' or '''more''' or what have you, in the terminal its a whole mess of text that looks the same to me. Like, the messages I wrote seem to repeat a lot, and that don't sit right with me *sigh*
+
+anyways, I was looking up the best way to put a break and end the loop once a correct answer is submitted. That's the aim of this version
+
+as I was writing it, I wonder if it's even necessary to have another method...it certianly isn't the simplest way to do it for the basic problem.
+
+The issue I ran into is I want to have a globar variable for "NAILED IT" when there aren't global variables AAARGGGGGH
+
+so yeah, commit and try again
+
+--
 
