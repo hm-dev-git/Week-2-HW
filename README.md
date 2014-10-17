@@ -113,4 +113,17 @@ Oh, and I wanted to change my tabs because Brian said something about it, and th
 Alright, so I think the code I've written to this point will do the trick. Time to test and find out
 --
 
+--
+hah, I forgot to put an empty line before the break but I like it a lot better that way. Inadvertent conviction is the best kind
 
+YEEEESSS it works!
+
+Making small changes to the code, for one I put the "Start 'Number Guesser'" puts in the loop so it shows every time. Silly
+
+And I also didn't display the number for testing purposes, so the first time I ran it I'm lucky the answer was 2. Actually I did but it was commented out in the loop sooo yeah
+But it did escape, so that's gnarly
+
+--
+v1.00
+--
+juuust saving it. I'll make a v1.01 tomorrow when I go for the stretch goals

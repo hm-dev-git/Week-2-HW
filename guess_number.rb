@@ -4,15 +4,17 @@ x = 1
 y = 10
 
 num_answer = rand(x..y)
+# Testing the generated number
+# puts(num_answer)
 
 chances = 5
 
+puts("Start 'Number Guesser'")
+
+
 chances.times do
 	
-	puts("Start 'Number Guesser'")
 	prompt = "Guess a number between 1 and 10. You have #{chances} chances remaining" 
-	# Testing the generated number
-	# puts(num_answer)
 
 	puts(prompt)
 	guess_num = gets.chomp.to_i
@@ -36,4 +38,4 @@ end
 
 end
 
-puts("You lose! I win! Womp womp!\n The correct number was #{num_answer}")
+puts("You lose! I win! Womp womp!\nThe correct number was #{num_answer}")
