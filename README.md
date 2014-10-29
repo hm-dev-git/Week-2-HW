@@ -4,7 +4,7 @@ Week-2-HW
 Number Guesser
 
 ~~v1~~ v0: Basic Problem
-[the doulbe tilde is the git markdown strikethrough syntax. I like my block-quote-and-two-capital-X-bookends but that's just cleaner. Woooot]
+[the doulbe tilde is the git markdown strikethrough syntax. I like my block-quote-and-two-capital-X-bookends but this's cleaner. Woooot]
 Haven't tagged anything yet, trying out rand function
 after runing it a few times, it 
 
